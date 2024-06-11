@@ -1,2 +1,3 @@
 # EatherKim
-Java开发
+Java 练习项目
+基于maven+mybatis
